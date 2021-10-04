@@ -61,7 +61,7 @@ jobs:
             mkdir workflows
             cd workflows
             wget https://gist.githubusercontent.com/techiesneh/adf36935d770074a6ba9484f2e3a5df8/raw/TSDailyWF.yml
-            https://gist.githubusercontent.com/techiesneh/66cc049ca1c58729e1f26c0fa9287d42/raw/TSaddon.txt
+            wget https://gist.githubusercontent.com/techiesneh/66cc049ca1c58729e1f26c0fa9287d42/raw/TSaddon.txt
             export dir=$dir
             export gist_url=$gist_url
             export git_id=${{ github.event.inputs.git_id }}
