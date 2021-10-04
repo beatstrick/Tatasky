@@ -39,7 +39,7 @@ jobs:
             sed -i 's/PASSWORD/${{ github.event.inputs.tata_pass }}/g' TSlogin.exp
             sed -i 's/SUB_ID/${{ github.event.inputs.sub_id }}/g' TSlogin.exp
             sed -i 's/MOB_NO/${{ github.event.inputs.tata_mobile }}/g' TSlogin.exp
-            ./TSlogin.exp >> /dev/null 2>&1
+            ./TSlogin.exp
             touch mytoken.txt
             echo "${{ github.event.inputs.git_token }}" >> mytoken.txt
             gh auth login --with-token < mytoken.txt
