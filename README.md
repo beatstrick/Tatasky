@@ -54,12 +54,12 @@ GithubToken[https://github.com/settings/tokens]
 <p align="left"><img src="imgs/5.png" width="350" height="550"></p>
 
 
-5. After clicking on Run Workflow, A new repository will be created in your account named "MyTataSky-Daily"
-<p align="left"><img src="imgs/6.png" width="350" height="350"></p>
+5. After clicking on ```Run Workflow```, A new repository will be created in your account named ```"MyTataSky-Daily"```
+<p align="left"><img src="imgs/6.png" width="280" height="180"></p>
 
 6. Go to the new repository named "MyTataSky-Daily"
-7. Now under actions click on Run Workflow
-<p align="left"><img src="imgs/7.png" width="350" height="350"></p>
+7. Now under actions click on ```Run Workflow```
+<p align="left"><img src="imgs/7.png" width="850" height="450"></p>
 
 
 8. Once the workflow has been successful, Check your GitHub gists [__https://gist.github.com__/```your_git_username```] then click on view your Gists. 
