@@ -49,8 +49,7 @@ GithubToken[https://github.com/settings/tokens]
 
 3. Now enter all your details.
 4. Click on ```Run Wokflow```
-<p align="left"><img src="imgs/3.png" width="550" height="350"></p>
-<p align="left"><img src="imgs/4.png" width="350" height="350"></p>
+<p align="left"><img src="imgs/3.png" width="900" height="400"></p>
 <p align="left"><img src="imgs/5.png" width="350" height="550"></p>
 
 
@@ -59,7 +58,7 @@ GithubToken[https://github.com/settings/tokens]
 
 6. Go to the new repository named "MyTataSky-Daily"
 7. Now under actions click on ```Run Workflow```
-<p align="left"><img src="imgs/7.png" width="850" height="450"></p>
+<p align="left"><img src="imgs/7.png" width="900" height="400"></p>
 
 
 8. Once the workflow has been successful, Check your GitHub gists [__https://gist.github.com__/```your_git_username```] then click on view your Gists. 
