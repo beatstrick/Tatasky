@@ -70,10 +70,10 @@ All the steps above are to be done only for once.
 <br>
 <h2>📝  Credits : </h2>
 
-1.  ``` ForceGT ``` - For This TataSky Python Repo
+1.  ``` ForceGT (Gaurav Thakkar) ``` - For This TataSky Python Repo
 2.  ``` Nageshwar128 ``` - For This Bash Script & Adding Login  
-3.  ``` GitHub ``` -  For Their GitHub Actions
-3.  ``` techiesneh``` - For Just Modifying 😅
+3.  ``` WF Owner (GitHub) ``` -  For Their GitHub Actions
+3.  ``` Me (techiesneh) ``` - For Just Modifying 😅
 
 <br>
 
