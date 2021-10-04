@@ -29,6 +29,7 @@
 
 * You need to have your own GitHub Token
 GithubToken[https://github.com/settings/tokens]
+<p align="left"><img src="imgs/4.png" width="650" height="340"></p>
 
 * Tata Sky account details (Like Subscriber ID, Tata Sky Account Password, Tata Sky Registered Phone number)
 
