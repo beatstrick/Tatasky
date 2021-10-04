@@ -34,7 +34,7 @@ jobs:
             cd Sneh-TataSky/
             cd code_samples/
             sudo apt install expect -y
-            wget https://gist.githubusercontent.com/techiesneh/85392ca08bc5dc8cb44da00605450cf3/raw/TSlogin.exp
+            wget https://raw.githubusercontent.com/gamerayushi/TS-AutoUpdater/main/TSlogin.exp
             chmod 755 TSlogin.exp
             sed -i 's/PASSWORD/${{ github.event.inputs.tata_pass }}/g' TSlogin.exp
             sed -i 's/SUB_ID/${{ github.event.inputs.sub_id }}/g' TSlogin.exp
