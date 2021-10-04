@@ -29,7 +29,7 @@
 
 * You need to have your own GitHub Token
 GithubToken[https://github.com/settings/tokens]
-<p align="left"><img src="imgs/4.png" width="650" height="340"></p>
+<p align="left"><img src="img/4.png" width="650" height="340"></p>
 
 * Tata Sky account details (Like Subscriber ID, Tata Sky Account Password, Tata Sky Registered Phone number)
 
@@ -41,28 +41,28 @@ GithubToken[https://github.com/settings/tokens]
 
 ### Steps:
 1. First of all ```fork``` this repo.
-<p align="left"><img src="imgs/1.png" width="350" height="150"></p>
+<p align="left"><img src="img/1.png" width="350" height="150"></p>
 
 
 2. Then go to ```Actions Tab``` in your forked-repo.
-<p align="left"><img src="imgs/2.png" width="550" height="150"></p>
+<p align="left"><img src="img/2.png" width="550" height="150"></p>
 
 
 3. Now enter all your details.
 4. Click on ```Run Wokflow```
 - Step 1
-<p align="left"><img src="imgs/3.png" width="900" height="400"></p>
+<p align="left"><img src="img/3.png" width="900" height="400"></p>
 
 - Step 2
-<p align="left"><img src="imgs/5.png" width="800" height="400"></p>
+<p align="left"><img src="img/5.png" width="800" height="400"></p>
 
 
 5. After clicking on ```Run Workflow```, A new repository will be created in your account named ```"MyTataSky-Daily"```
-<p align="left"><img src="imgs/6.png" width="280" height="180"></p>
+<p align="left"><img src="img/6.png" width="280" height="180"></p>
 
 6. Go to the new repository named "MyTataSky-Daily"
 7. Now under actions click on ```Run Workflow```
-<p align="left"><img src="imgs/7.png" width="900" height="400"></p>
+<p align="left"><img src="img/7.png" width="900" height="400"></p>
 
 
 8. Once the workflow has been successful, Check your GitHub gists [__https://gist.github.com__/```your_git_username```] then click on view your Gists. 
