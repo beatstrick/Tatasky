@@ -40,12 +40,23 @@ GithubToken[https://github.com/settings/tokens]
 
 ### Steps:
 1. First of all fork this repo.
+<p align="left"><img src="imgs/1.png" width="150" height="50"></p>
+
 2. Then go to Actions Tab in your forked-repo.
+<p align="left"><img src="imgs/2.png" width="150" height="50"></p>
+
 3. Now enter all your details.
 4. Click on "Run Wokflow"
+<p align="left"><img src="imgs/3.png" width="150" height="50"></p>
+
+
 5. After clicking on Run Workflow, A new repository will be created in your account named "MyTataSky-Daily"
+<p align="left"><img src="imgs/4.png" width="150" height="50"></p>
+
 6. Go to the new repository named "MyTataSky-Daily"
 7. Now under actions click on Run Workflow
+<p align="left"><img src="imgs/5.png" width="150" height="50"></p>
+
 8. Once the workflow has been successful, Check your GitHub gists [__https://gist.github.com__/```your_git_username```] then click on view your Gists. 
 - ```For Example : https://gist.github.com/techiesneh```
 9. Now you'll see that you'll have ``` mytatasky.m3u ``` there.
