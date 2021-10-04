@@ -50,8 +50,11 @@ GithubToken[https://github.com/settings/tokens]
 
 3. Now enter all your details.
 4. Click on ```Run Wokflow```
+- Step 1
 <p align="left"><img src="imgs/3.png" width="900" height="400"></p>
-<p align="left"><img src="imgs/5.png" width="350" height="550"></p>
+
+- Step 2
+<p align="left"><img src="imgs/5.png" width="800" height="400"></p>
 
 
 5. After clicking on ```Run Workflow```, A new repository will be created in your account named ```"MyTataSky-Daily"```
