@@ -79,7 +79,7 @@ jobs:
             mv Beat-TataSky/.github MyTataSky-Daily/
             cd MyTataSky-Daily/
             git add .
-            git commit --author="TechieSneh<techiesneh@gmail.com>" -m "Update Repo"
+            git commit --author="BeatsTrick" -m "Update Repo"
             git push
 
 
