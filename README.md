@@ -102,4 +102,4 @@ All the steps above are to be done only for once.
 - DO NOT Sell this Script, This is 💯% Free
 
 ---
-<h4 align='center'>© 2021 Beats Trick/h4>
+<h4 align='center'>© 2021 Beats Trick>
