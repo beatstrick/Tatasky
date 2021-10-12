@@ -3,7 +3,7 @@
 <h1 align='center'>✯ TataSky Auto Updater✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021 TechieSneh -->
+<!-- © 2021 beatstrick -->
 
 <h4 align='center'>📺 The PyBash Script For Auto Update TataSky PlayLists <br>and Play it  on Tivimate 📽 <br>🌟 Star This Repositry Befor Fork 😎<br>😊 Don't Remove Credits<br>Don't Edit This Script 😈<br><br></h4>
 <br>
@@ -66,12 +66,12 @@ GithubToken[https://github.com/settings/tokens]
 
 
 8. Once the workflow has been successful, Check your GitHub gists [__https://gist.github.com__/```your_git_username```] then click on view your Gists. 
-- ```For Example : https://gist.github.com/techiesneh```
+- ```For Example : https://gist.github.com/beatstrick```
 9. Now you'll see that you'll have ``` mytatasky.m3u ``` there.
 
 10. Open it by clicking on it, Then tap on raw. Copy that link and then modify the link by removing only the the hashcode token after /raw/ in the URL. 
-- ```With HashCode: https://gist.githubusercontent.com/techiesneh/080307665ca52d259a6f12cc387c368e/raw/f92b8598766239056e70cafe2ef42b1369f73eae/test.m3u```   
-- ```Without HashCode: https://gist.githubusercontent.com/techiesneh/080307665ca52d259a6f12cc387c368e/raw/test.m3u```
+- ```With HashCode: https://gist.githubusercontent.com/beatstrick/080307665ca52d259a6f12cc387c368e/raw/f92b8598766239056e70cafe2ef42b1369f73eae/test.m3u```   
+- ```Without HashCode: https://gist.githubusercontent.com/beatstrick/080307665ca52d259a6f12cc387c368e/raw/test.m3u```
 
 11. There you go, Now use that URL in your Tivimate. And Tivimate will update the playlist automatically once you open the app.
 
@@ -92,7 +92,7 @@ All the steps above are to be done only for once.
 1.  ``` ForceGT (Gaurav Thakkar) ``` - For This TataSky Python Repo
 2.  ``` Nageshwar128 ``` - For This Bash Script & Adding Login  
 3.  ``` WF Owner (GitHub) ``` -  For Their GitHub Actions
-3.  ``` Me (techiesneh) ``` - For Just Modifying 😅
+3.  ``` Me (beatstrick) ``` - For Just Modifying 😅
 
 <br>
 
@@ -101,11 +101,5 @@ All the steps above are to be done only for once.
 - This is Just For Educational Purpose
 - DO NOT Sell this Script, This is 💯% Free
 
-<h3>🤗 Meet Me : </h3>
-
-- For any Help [Techie Sneh](https://t.me/techiesneh)<br>
-- Or Contact at [techiesneh@gmail.com](mailto:techiesneh@gmail.com)
-
-
 ---
-<h4 align='center'>© 2021 Techie Sneh</h4>
+<h4 align='center'>© 2021 Beats Trick/h4>
