@@ -7,13 +7,13 @@ on:
       required: true
     tata_mobile:
       description: 'Enter your Tata Sky Mobile Number'
-      required: false
+      required: true
     sub_id:
       description: 'Enter your Tata Sky Subscriber ID'
-      required: false
+      required: true
     tata_pass:
       description: 'Enter your Tata Sky Password'     
-      required: false
+      required: true
     git_mail:
       description: 'Enter your GitHub Mail Address'
       required: true
@@ -53,7 +53,7 @@ jobs:
             dir="${gist_url##*/}"
             git clone https://github.com/beatstrick/Beat-TataSky
             gh repo create MyTataSky-Daily --private -y || echo "New repo has been created"
-            mv ../TSlogin.exp Beat-TataSky/code_samples/
+            mv ../TSlogin.exp Sneh-TataSky/code_samples/
             chmod 755 Beat-TataSky/code_samples/TSlogin.exp
             cd Beat-TataSky/
             mkdir .github
@@ -75,17 +75,14 @@ jobs:
             git clone https://${{ github.event.inputs.git_token }}@github.com/${{ github.event.inputs.git_id }}/MyTataSky-Daily
             rm -rf MyTataSky-Daily/*
             rm -rf MyTataSky-Daily/.github
-            mv Beat-TataSky/* MyTataSky-Daily/
-            mv Beat-TataSky/.github MyTataSky-Daily/
+            mv Sneh-TataSky/* MyTataSky-Daily/
+            mv Sneh-TataSky/.github MyTataSky-Daily/
             cd MyTataSky-Daily/
             git add .
             git commit --author="BeatsTrick" -m "Update Repo"
             git push
-
-
             
             
             
             
-
             
